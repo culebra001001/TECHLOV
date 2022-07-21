@@ -11587,11 +11587,10 @@ svg circle {
 .icon:hover circle {
     stroke-dasharray: 220;
 }
-img.img-fluidd{
-  width: 55px;
-  height: 55px;
-  color: transparent;
-  opacity: 50%;
+img{
+  width: 120px;
+  height: 120px;
+  
 }
   
 
